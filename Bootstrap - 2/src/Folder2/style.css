@@ -1,0 +1,8 @@
+body{
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 2rem;  /* Padding around the content */
+    background-color: #ccffd6;  /* Light blue background color */
+}
