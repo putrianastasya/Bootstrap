@@ -1,0 +1,27 @@
+body{
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 2rem;  /* Padding around the content */
+    background-color: #ccffd6;  /* Light blue background color */
+}
+
+#PriceList{
+    background-color: #ccffd6;
+
+}
+
+.col-sm-4 img {
+    height: 200px; /* Lebar gambar */
+    width: auto;
+}
+
+.jarak {
+    margin-top: 100px;
+}
+
+.footer-background {
+    background-color: #ccffd6; /* Warna latar belakang hijau muda */
+  }
+  
